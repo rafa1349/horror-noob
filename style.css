@@ -16,6 +16,9 @@ div{
 0%{
     background-color: black;
 }
+15%{
+    background-color: black;
+}
 16%{
     background-color: white;
 }
@@ -94,6 +97,11 @@ div{
 66%{
     background-color: black;
 }
-83%{}
-92%{}
+83%{
+    background-color: black;
+}
+92%{
+    background-image: url(horor.jpg);
+    background-size: cover;
+}
 }
